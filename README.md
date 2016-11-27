@@ -2,7 +2,7 @@ This is an open-sourced initiative by OpenAQ to bring anyone doing anything rela
 
 ## License
 
-The whole work here is licensed under `MIT license`. Read the [LICENSE](LICENSE) file for more info.
+The whole work here is licensed under `Creative Commons`. Read the [LICENSE](LICENSE) file for more info.
 
 ## I want to submit
 
