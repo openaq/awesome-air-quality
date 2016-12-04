@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/badge/LICENSE-CC0%201.0%20Universal-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 This is an open-sourced initiative by OpenAQ to bring anyone doing anything related to air pollution on single page. Read more about ["What is this" here](WhatIsThis.md)
 
 ## License
