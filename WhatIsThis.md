@@ -8,6 +8,6 @@ Our aim here is to let people know who all are fighting air pollution in the sam
 ## What we are not!
 
 1. We are not a news site.
-2. We do not now and will not ever charge for this. (Maybe un till Github asks us to.. 🤔)
+2. We do not now and will not ever charge for this. (until Github asks us to maybe.. 🤔)
 3. We do not play favorites, please don't ask us too.
 4. Everything here is being done in open, let us know if you have any concerns. (Create an [issue](https://guides.github.com/features/issues/))
