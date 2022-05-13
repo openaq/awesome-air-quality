@@ -12,8 +12,10 @@ Please read our [submission guidelines](Submission.md) and open a [pull-request]
 * Python
     * [py-openaq - _python wrapper for the OpenAQ API_](https://github.com/dhhagan/py-openaq)
     * [python-aqi - _A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)_](https://github.com/hrbonz/python-aqi)
+    * [sensortoolkit - _Air Sensor Data Analysis Library_](https://github.com/USEPA/sensortoolkit)
 
 * R
     * [AirMonitor - _Utilities for working with air quality monitoring data_](https://github.com/MazamaScience/AirMonitor)
     * [AirSensor - _Utilities for working with data from PurpleAir sensors_](https://github.com/MazamaScience/AirSensor)
+    * [sensortoolkit - _A collection of R scripts for managing an air quality sensor network_](https://github.com/gmiskell/sensortoolkit)
 
