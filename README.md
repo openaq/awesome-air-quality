@@ -18,3 +18,4 @@ Please read our [submission guidelines](contributing.md) and open a [pull-reques
     * [AirMonitor - _Utilities for working with air quality monitoring data_](https://github.com/MazamaScience/AirMonitor)
     * [AirSensor - _Utilities for working with data from PurpleAir sensors_](https://github.com/MazamaScience/AirSensor)
     * [sensortoolkit - _A collection of R scripts for managing an air quality sensor network_](https://github.com/gmiskell/sensortoolkit)
+    * [openair](https://cran.r-project.org/web/packages/openair/index.html) Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data.
