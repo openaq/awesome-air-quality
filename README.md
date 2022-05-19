@@ -2,7 +2,7 @@
 
 ## I want to contribute
 
-Please read our [submission guidelines](contributing.md) and open a [pull-request](https://help.github.com/articles/about-pull-requests/).
+Please read our [contributing guidelines](contributing.md) and open a [pull-request](https://help.github.com/articles/about-pull-requests/).
 
 # Software Libraries
 
