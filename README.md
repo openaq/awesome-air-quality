@@ -26,3 +26,6 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * C++
     * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library)
     * [PMS - _Arduino library for Plantower PMS x003 family sensors._](https://github.com/fu-hsi/PMS)
+
+* C#
+    * [openair - National air quality data acquisition library (Chinese)](https://github.com/hzexe/openair)
