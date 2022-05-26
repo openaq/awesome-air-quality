@@ -10,6 +10,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [openaq - _A JS client for the OpenAQ API_](https://github.com/nickolasclarke/openaq)
 
 * Python
+    * [bme680-python - _Python library for the BME680 gas, temperature, humidity and pressure sensor._](https://github.com/pimoroni/bme680-python)
     * [py-openaq - _python wrapper for the OpenAQ API_](https://github.com/dhhagan/py-openaq)
     * [python-aqi - _A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)_](https://github.com/hrbonz/python-aqi)
     * [quantpy - _Provides tools for visually evaluating low-cost air quality sensors_](https://github.com/wacl-york/quant-air-pollution-measurement-errors)
@@ -24,3 +25,4 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * C++
     * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library)
+    * [PMS - _Arduino library for Plantower PMS x003 family sensors._](https://github.com/fu-hsi/PMS)
