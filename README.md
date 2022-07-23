@@ -17,12 +17,13 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [sensortoolkit - _Air Sensor Data Analysis Library_](https://github.com/USEPA/sensortoolkit)
 
 * R
+    * [AirBeamR - An interactive data tool to visualize and work with AirBeam, OpenAQ, and PurpleAir data](https://github.com/aq-sensors/airbeamR)
     * [AirMonitor - _Utilities for working with air quality monitoring data_](https://github.com/MazamaScience/AirMonitor) [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
     * [AirSensor - _Utilities for working with data from PurpleAir sensors_](https://github.com/MazamaScience/AirSensor) [CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
     * [openair - _Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data._](https://github.com/davidcarslaw/openair) [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
     * [quantr - _Provides tools for visually evaluating low-cost air quality sensors_](https://github.com/wacl-york/quant-air-pollution-measurement-errors)
     * [sensortoolkit - _A collection of R scripts for managing an air quality sensor network_](https://github.com/gmiskell/sensortoolkit)
-    * [AirBeamR - An interactive data tool to visualize and work with AirBeam, OpenAQ, and PurpleAir data] (https://github.com/aq-sensors/airbeamR)
+    
 
 * C++
     * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library)
