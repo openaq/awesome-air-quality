@@ -54,3 +54,5 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * Rust
     * [Rust library with common functionality for I2C sensors](https://github.com/Sensirion/sensirion-i2c-rs)
+* R
+    * [Purple Air Data Merger - Merges and corrects Purple Air SD Card Data](https://github.com/SebAire/Purple-Air-Data-Merger)
