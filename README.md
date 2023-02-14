@@ -29,6 +29,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [AirSensor - _Utilities for working with data from PurpleAir sensors_](https://github.com/MazamaScience/AirSensor) [CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
     * [openair - _Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data._](https://github.com/davidcarslaw/openair) [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
     * [openairmaps - _mapping functions to support openair_](https://github.com/davidcarslaw/openairmaps) [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
+    * [Purple Air Data Merger - Merges and corrects Purple Air SD Card Data](https://github.com/SebAire/Purple-Air-Data-Merger)
     * [quantr - _Provides tools for visually evaluating low-cost air quality sensors_](https://github.com/wacl-york/quant-air-pollution-measurement-errors)
     * [sensortoolkit - _A collection of R scripts for managing an air quality sensor network_](https://github.com/gmiskell/sensortoolkit)
     
@@ -51,8 +52,8 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 
 * Python
     * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30)
+    * [Sentinair - _A flexible tool for data acquisition from heterogeneous low-cost gas sensors and other devices_](https://github.com/domenico-suriano/SentinAir)
 
 * Rust
     * [Rust library with common functionality for I2C sensors](https://github.com/Sensirion/sensirion-i2c-rs)
-* R
-    * [Purple Air Data Merger - Merges and corrects Purple Air SD Card Data](https://github.com/SebAire/Purple-Air-Data-Merger)
+
