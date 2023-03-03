@@ -34,8 +34,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [sensortoolkit - _A collection of R scripts for managing an air quality sensor network_](https://github.com/gmiskell/sensortoolkit)
     
 * Rust
-  * [openaq-client: Unofficial Open Air Quality API Client written in Rust! *Can be installed with cargo… `$ cargo install openaq-client`*](https://github.com/igncp/openaq-client)
-
+  * [openaq-client: Unofficial Open Air Quality API Client written in Rust](https://github.com/igncp/openaq-client) [crate](https://crates.io/crates/openaq-client)
 
 ## Hardware drivers / software
 
