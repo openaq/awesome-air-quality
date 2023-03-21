@@ -16,11 +16,18 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [openaq - _A JS client for the OpenAQ API_](https://github.com/nickolasclarke/openaq)
 
 * Python
+    * [atmospy - _visualization and analysis tools for air quality data in python_](https://github.com/quant-aq/atmospy)
     * [bme680-python - _Python library for the BME680 gas, temperature, humidity and pressure sensor._](https://github.com/pimoroni/bme680-python)
+    * [py-licor - _Python logging software for the Licor 840 CO2/H2O analyzer_](https://github.com/quant-aq/py-licor)
     * [py-openaq - _python wrapper for the OpenAQ API_](https://github.com/dhhagan/py-openaq)
+    * [py-quantaq - _A python wrapper for the QuantAQ RESTful API_](https://github.com/quant-aq/py-quantaq)
+    * [py-smps - _Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's)._](https://github.com/quant-aq/py-smps)
     * [python-aqi - _A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)_](https://github.com/hrbonz/python-aqi)
+    * [The QuantAQ CLI - _QuantAQ command line interface_](https://github.com/quant-aq/cli)
     * [quantpy - _Provides tools for visually evaluating low-cost air quality sensors_](https://github.com/wacl-york/quant-air-pollution-measurement-errors)
     * [sensortoolkit - _Air Sensor Data Analysis Library_](https://github.com/USEPA/sensortoolkit)
+
+    
 
 
 * R
