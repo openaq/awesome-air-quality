@@ -27,8 +27,6 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [quantpy - _Provides tools for visually evaluating low-cost air quality sensors_](https://github.com/wacl-york/quant-air-pollution-measurement-errors)
     * [sensortoolkit - _Air Sensor Data Analysis Library_](https://github.com/USEPA/sensortoolkit)
 
-    
-
 
 * R
     * [AirBeamR - An interactive data tool to visualize and work with AirBeam, OpenAQ, and PurpleAir data](https://github.com/aq-sensors/airbeamR)
