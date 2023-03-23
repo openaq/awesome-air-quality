@@ -18,7 +18,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * Python
     * [atmospy](https://github.com/quant-aq/atmospy)  - _visualization and analysis tools for air quality data in python_
     * [bme680-python](https://github.com/pimoroni/bme680-python) - _Python library for the BME680 gas, temperature, humidity and pressure sensor._
-    * [py-licor_](https://github.com/quant-aq/py-licor) - _Python logging software for the Licor 840 CO2/H2O analyzer
+    * [py-licor](https://github.com/quant-aq/py-licor) - _Python logging software for the Licor 840 CO2/H2O analyzer_
     * [py-openaq](https://github.com/dhhagan/py-openaq) - _python wrapper for the OpenAQ API_
     * [py-quantaq](https://github.com/quant-aq/py-quantaq) - _A python wrapper for the QuantAQ RESTful API_
     * [py-smps](https://github.com/quant-aq/py-smps) - _Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's)._
