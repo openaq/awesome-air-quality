@@ -21,6 +21,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [py-licor](https://github.com/quant-aq/py-licor) - _Python logging software for the Licor 840 CO2/H2O analyzer_
     * [py-openaq](https://github.com/dhhagan/py-openaq) - _python wrapper for the OpenAQ API_
     * [py-quantaq](https://github.com/quant-aq/py-quantaq) - _A python wrapper for the QuantAQ RESTful API_
+    * [py-opcsim](https://github.com/dhhagan/opcsim) - _Python library to simulate OPCs and Nephlometers under different conditions_
     * [py-smps](https://github.com/quant-aq/py-smps) - _Python library for the analysis and visualization of data from a Scanning Mobility Particle Sizer (SMPS) and other similar instruments (SEMS, OPC's)._
     * [python-aqi](https://github.com/hrbonz/python-aqi) - _A library to convert between AQI value and pollutant concentration (µg/m³ or ppm)_
     * [The QuantAQ CLI](https://github.com/quant-aq/cli) - _QuantAQ command line interface_
