@@ -48,6 +48,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [Embedded SGP Drivers for Sensirion Gas Sensors](https://github.com/Sensirion/embedded-sgp)
     * [Embedded i2c Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-sps)
     * [Embedded SCD Drivers for Sensirion CO2 Sensors](https://github.com/Sensirion/embedded-scd)
+    * [LibreCO2](https://github.com/danielbernalb/LibreCO2)
 
 * C++
     * [Nova Fitness SDS dust sensors arduino library](https://github.com/lewapek/sds-dust-sensors-arduino-library)
