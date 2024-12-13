@@ -37,6 +37,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [openairmaps](https://github.com/davidcarslaw/openairmaps) - _mapping functions to support openair_ [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
     * [Purple Air Data Merger](https://github.com/SebAire/Purple-Air-Data-Merger) - _Merges and corrects Purple Air SD Card Data_
     * [quantr](https://github.com/wacl-york/quant-air-pollution-measurement-errors) - _Provides tools for visually evaluating low-cost air quality sensors_
+    * [r-quantaq](https://github.com/quant-aq/r-quantaq) - The official R wrapper for the QuantAQ API
     * [sensortoolkit](https://github.com/gmiskell/sensortoolkit) - _A collection of R scripts for managing an air quality sensor network    
     * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) - _A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!_
     
