@@ -21,6 +21,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * Python
     * [airbase](https://github.com/JohnPaton/airbase) - An easy downloader for the AirBase air quality data.
     * [atmospy](https://github.com/quant-aq/atmospy)  - _visualization and analysis tools for air quality data in python_
+    * [openaq-python](https://github.com/openaq/openaq-python) - Official OpenAQ Python SDK for working with the OpenAQ API.
     * [py-openaq](https://github.com/dhhagan/py-openaq) - _python wrapper for the OpenAQ API_
     * [py-quantaq](https://github.com/quant-aq/py-quantaq) - _A python wrapper for the QuantAQ RESTful API_
     * [py-opcsim](https://github.com/dhhagan/opcsim) - _Python library to simulate OPCs and Nephlometers under different conditions_
@@ -39,6 +40,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [beethoven](https://github.com/NIEHS/beethoven) - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
     * [CMAQ](https://github.com/USEPA/CMAQ) - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
     * [openair](https://github.com/davidcarslaw/openair) - _Tools to analyse, interpret and understand air pollution data. Data are typically hourly time series and both monitoring data and dispersion model output can be analysed. Many functions can also be applied to other data, including meteorological and traffic data._ [CRAN](https://cran.r-project.org/web/packages/openair/index.html)
+    * [openaq](https://github.com/openaq-r) Official OpenAQ R client for the OpenAQ API. 
     * [openairmaps](https://github.com/davidcarslaw/openairmaps) - _mapping functions to support openair_ [CRAN](https://cran.r-project.org/web/packages/openairmaps/index.html)
     * [Purple Air Data Merger](https://github.com/SebAire/Purple-Air-Data-Merger) - _Merges and corrects Purple Air SD Card Data_
     * [qualR](https://github.com/ropensci/qualR) - This is the qualR package, it will help you bring São Paulo and Rio de Janeiro air quality data to your R session 🇧🇷.
