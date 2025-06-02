@@ -36,6 +36,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [AirBeamR](https://github.com/aq-sensors/airbeamR) - An interactive data tool to visualize and work with AirBeam, OpenAQ, and PurpleAir data
     * [AirMonitor](https://github.com/MazamaScience/AirMonitor) - _Utilities for working with air quality monitoring data_ [CRAN](https://cran.r-project.org/web/packages/AirMonitor/index.html)
     * [AirSensor](https://github.com/MazamaScience/AirSensor)  - _Utilities for working with data from PurpleAir sensors_[CRAN](https://cran.r-project.org/web/packages/AirSensor/index.html)
+    * [Air Sensor Network Analysis Tool](https://github.com/USEPA/Air-Sensor-Network-Analysis-Tool-Public-) - A tool to understand air sensor performance compared to nearby air monitors and to understand local air quality.
     * [AMET](https://github.com/USEPA/AMET) - Code base for the U.S. EPA’s Atmospheric Model Evaluation Tool (AMET).
     * [beethoven](https://github.com/NIEHS/beethoven) - BEETHOVEN is: Building an Extensible, rEproducible, Test-driven, Harmonized, Open-source, Versioned, ENsemble model for air quality.
     * [CMAQ](https://github.com/USEPA/CMAQ) - Code for U.S. EPA’s Community Multiscale Air Quality Model (CMAQ) which helps in conducting air quality model simulations.
@@ -50,7 +51,8 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [rPollution](https://github.com/openvironment/Rpollution) - R functions to work with air pollution data
     * [r-quantaq](https://github.com/quant-aq/r-quantaq) - The official R wrapper for the QuantAQ API
     * [saqgetr](https://github.com/skgrange/saqgetr) - Import Air Quality Monitoring Data in a Fast and Easy Way
-    * [sensortoolkit](https://github.com/gmiskell/sensortoolkit) - _A collection of R scripts for managing an air quality sensor network    
+    * [sensortoolkit](https://github.com/gmiskell/sensortoolkit) - _A collection of R scripts for managing an air quality sensor network
+    * [SENTINEL](https://github.com/USEPA/SENTINEL) - Fenceline Sensor Data Analysis, Quality Assurance, & Visualization
     * [biteSizedAQ](https://github.com/AarshBatra/biteSizedAQ/) - _A collection of bite sized projects aimed at democratizing access to air quality data, pipelines and insights in a manner that is free, open, accessible and easy to understand. Air pollution can feel like a giant overwhelming issue and it is, but by consistently taking bite-sized smart steps, we can collectively make significant progress in tackling it!_
     
 * Rust
@@ -74,6 +76,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * Python
     * [bme680-python](https://github.com/pimoroni/bme680-python) - _Python library for the BME680 gas, temperature, humidity and pressure sensor._
     * [py-licor](https://github.com/quant-aq/py-licor) - _Python logging software for the Licor 840 CO2/H2O analyzer_
+    * [pyaqsapi](https://github.com/USEPA/pyaqsapi) - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
     * [Software to read out Sensirion SCD30 CO₂ Sensor values over I2C on Raspberry Pi](https://github.com/UnravelTEC/Raspi-Driver-SCD30)
     * [Sentinair](https://github.com/domenico-suriano/SentinAir) - _A flexible tool for data acquisition from heterogeneous low-cost gas sensors and other devices_
 
