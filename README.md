@@ -21,6 +21,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * Python
     * [aeolus](https://github.com/southlondonscientific/aeolus) - _Download and analyse air quality data from 14 monitoring networks with a unified schema. Includes trend analysis and AQI calculations._ [PyPI](https://pypi.org/project/aeolus-aq/)
     * [airbase](https://github.com/JohnPaton/airbase) - An easy downloader for the AirBase air quality data.
+    * [airinsights](https://github.com/edf-org/airinsights) - Analysis suite to translate local air quality data into actionable insights. 
     * [atmospy](https://github.com/quant-aq/atmospy)  - _visualization and analysis tools for air quality data in python_
     * [openaq-python](https://github.com/openaq/openaq-python) - Official OpenAQ Python SDK for working with the OpenAQ API.
     * [py-openaq](https://github.com/dhhagan/py-openaq) - _python wrapper for the OpenAQ API_
