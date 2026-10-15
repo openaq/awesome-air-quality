@@ -77,6 +77,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [Embedded UART Driver for Sensirion Particulate Matter Sensors](https://github.com/Sensirion/embedded-uart-sps)
 
 * Python
+    * [atmotube-prometheus](https://github.com/DanielEnki420/atmotube-prometheus) - _Reads an Atmotube PRO air sensor over Bluetooth LE (PM1/PM2.5/PM10, VOC, temperature, humidity, pressure) and exports it to Prometheus via node_exporter's textfile collector, with threshold alerts and Grafana/Perses dashboards._
     * [bme680-python](https://github.com/pimoroni/bme680-python) - _Python library for the BME680 gas, temperature, humidity and pressure sensor._
     * [py-licor](https://github.com/quant-aq/py-licor) - _Python logging software for the Licor 840 CO2/H2O analyzer_
     * [pyaqsapi](https://github.com/USEPA/pyaqsapi) - A python 3 package to retrieve ambient air monitoring data from the United States Environmental Protection Agency’s (US EPA) Air Quality System (AQS) Data Mart API v2 interface
