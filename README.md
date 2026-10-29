@@ -23,6 +23,7 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
     * [airbase](https://github.com/JohnPaton/airbase) - An easy downloader for the AirBase air quality data.
     * [airinsights](https://github.com/edf-org/airinsights) - Analysis suite to translate local air quality data into actionable insights. 
     * [atmospy](https://github.com/quant-aq/atmospy)  - _visualization and analysis tools for air quality data in python_
+    * [EnviroQC](https://github.com/LiuxinBlade/EnviroQC) - _Local, read-only data-quality screening (missing values, duplicates, format errors, configurable ranges) for air/water/soil monitoring CSV and Excel files_
     * [openaq-python](https://github.com/openaq/openaq-python) - Official OpenAQ Python SDK for working with the OpenAQ API.
     * [py-openaq](https://github.com/dhhagan/py-openaq) - _python wrapper for the OpenAQ API_
     * [py-quantaq](https://github.com/quant-aq/py-quantaq) - _A python wrapper for the QuantAQ RESTful API_
