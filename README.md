@@ -12,6 +12,9 @@ Please read our [contributing guidelines](contributing.md) and open a [pull-requ
 * C#
     * [openair](https://github.com/hzexe/openair) - National air quality data acquisition library (Chinese)
    
+* Go
+    * [Kanarche](https://github.com/iliyan-s-petkov/kanarche) - Open-source air quality map for Bulgaria showing PM2.5 and PM10 from Sensor.community sensors and official EEA stations, with an embeddable widget. [Live site](https://kanarche.eu/en/)
+
 * Java
    * [NAPSDataAnalysis](https://github.com/dbeaudoinfortin/NAPSDataAnalysis) - Canadian National Air Pollution Surveillance Program (NAPS) data downloader, importer, extractor, analysis, and visualization toolbox. 
 
